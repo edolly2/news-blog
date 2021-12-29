@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+/newsblog/node_modules
+/newsblog/.npmignore
+/newsblog/config
+/newsblog
 
 # testing
 /coverage
